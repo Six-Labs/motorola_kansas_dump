@@ -1,0 +1,14 @@
+# user 15 V1VK35.22-125 06468 release-keys
+- manufacturer: motorola
+- platform: common
+- codename: kansas
+- flavor: user
+- release: 15
+- id: V1VK35.22-125
+- incremental: 06468
+- tags: release-keys
+- fingerprint: motorola/kansas_g_hal/kansas:13/V1VK35.22-125/06468:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-15-V1VK35.22-125-06468-release-keys
+- repo: motorola_kansas_dump
