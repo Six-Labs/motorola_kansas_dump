@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<permissions>
+    <privapp-permissions package="com.aura.oobe.cricket">
+             <permission name="android.permission.INSTALL_PACKAGES"/> <!--Buganizer ID: 276421807-->
+             <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+    </privapp-permissions>
+</permissions>

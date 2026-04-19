@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<enable-disable-package>
+    <package-disable-enable-criteria package="com.verizon.mips.services" carrierBased="true" default_action="disable">
+        <criteria action="enable" channel="vzw"/>
+        <criteria action="enable" channel="vzwpre"/>
+        <criteria action="enable" channel="tracfone"/>
+        <criteria action="enable" channel="spectrum"/>
+        <criteria action="enable" channel="comcast"/>
+        <criteria action="enable" channel="retus"/>
+    </package-disable-enable-criteria>
+</enable-disable-package>
